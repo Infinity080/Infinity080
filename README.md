@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Paweł 👋
+
+🎓 I'm a computer science student with a strong interest in AI and machine learning, always looking for new opportunities and challenges to grow.
+
+## 🔧 Recent Projects
+- **Job Finder** – Find jobs from main Polish job portals based on your CV
+- **Book & Movie Recommender** – NLP-based recommendation system
+## 📫 Contact
+- Email: pawel.wojcik080@gmail.com
+- LinkedIn: [linkedin.com/pawe%C5%82-w%C3%B3jcik-382a9b360](https://www.linkedin.com/in/pawe%C5%82-w%C3%B3jcik-382a9b360/)
+
 
 <!--
 **Infinity080/Infinity080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
